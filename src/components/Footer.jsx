@@ -1,6 +1,6 @@
 function Footer(){
     return(
-        <footer className="bg-gray-900 text-gray-400 px-10 py-3 flex justify-end gap-10 text-sm">
+        <footer className="bg-gray-900 text-gray-400 px-1 md:px-10 py-3 flex justify-center md:justify-end gap-2 md:gap-10 text-[10px] md:text-[12px] lg:text-sm">
 
             <p>&copy; All rights reserved | userly<span className="text-blue-400">.</span></p>
             <p className="cursor-pointer hover:text-white">Terms</p>

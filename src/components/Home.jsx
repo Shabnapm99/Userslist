@@ -2,6 +2,7 @@ import React from 'react'
 import userList from '../assets/usersImage.png';
 import userDetails from '../assets/userDetailsImage.png';
 
+
 function Home() {
     return (
         <div>
